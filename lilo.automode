@@ -86,14 +86,14 @@
   #KDE {{{
     # 1) Full
     # 2) Minimal
-    KDE_INSTALL="1"
+    KDE_INSTALL="2"
     # 1) Apper
     # 2) Choqok
     # 3) Digikam
     # 4) K3b
     # 5) Skrooge
     # 6) Yakuake
-    KDE_OPTIONS="1-6"
+    KDE_OPTIONS=""
   #}}}
   #ESSENTIAL APPS [Enlightenment,LXDE,Awesome,Fluxbox,OpenBox] {{{
     # 1) Display Manager
@@ -164,7 +164,7 @@
   #14) Terminator
   #15) Unified Remote
   #16) Zim
-  ACCESSORIES_OPTIONS="1 3 5 7 9 10 11 16"
+  ACCESSORIES_OPTIONS="1 3 5 7 9 10"
 #}}}
 #DEVELOPEMENT {{{
   # 1) Aptana Studio
@@ -235,7 +235,7 @@
   #10) MediaElch
   #11) OCRFeeder
   #12) Xmind
-  OFFICE_OPTIONS="8 9"
+  OFFICE_OPTIONS="9"
 #}}}
 #SYSTEM TOOLS {{{
   # 1) ClamAV
@@ -397,7 +397,7 @@
   #12) Terminal
   #13) PlayOnLinux
   #14) Steam
-  GAMES_OPTIONS="6"
+  GAMES_OPTIONS=""
   #ACTION {{{
     # 1) Astromenace
     # 2) Counter-Strike 2D
@@ -460,7 +460,7 @@
     # 5) Savage II
     # 6) Spiral Knights
     # 7) Wakfu
-    MMO="2"
+    MMO=""
   #}}}
   #PUZZLE {{{
     # 1) Frozen Bubble
@@ -539,4 +539,3 @@
   # 1) Global Menu
   EXTRA_OPTIONS=""
 #}}}
-
